@@ -1,0 +1,8 @@
+{
+  "name": "SatKabir Plus - Super App (CSC, Jobs & Gym Tracker)",
+  "description": "All-in-one Super App combining CSC digital services, Sarkari Results, online typing test, and personal Gym Habit Tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
